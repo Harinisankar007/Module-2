@@ -43,6 +43,7 @@ for i in range(1, rows+1):
     print()
 ```
 ## Sample Output
+
 ![image](https://github.com/user-attachments/assets/a5a61770-3dda-4a74-b6fa-e6ea4ac196ed)
 
 ## Result
